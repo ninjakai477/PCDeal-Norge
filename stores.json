@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Komplett",
+    "domain": "komplett.no",
+    "feed_env": "FEED_KOMPLETT",
+    "status": "requires approved feed"
+  },
+  {
+    "name": "Proshop",
+    "domain": "proshop.no",
+    "feed_env": "FEED_PROSHOP",
+    "status": "requires approved feed"
+  },
+  {
+    "name": "Dustin",
+    "domain": "dustin.no",
+    "feed_env": "FEED_DUSTIN",
+    "status": "requires approved feed"
+  },
+  {
+    "name": "NetOnNet",
+    "domain": "netonnet.no",
+    "feed_env": "FEED_NETONNET",
+    "status": "requires approved feed"
+  },
+  {
+    "name": "Multicom",
+    "domain": "multicom.no",
+    "feed_env": "FEED_MULTICOM",
+    "status": "requires approved feed"
+  },
+  {
+    "name": "Computersalg",
+    "domain": "computersalg.no",
+    "feed_env": "FEED_COMPUTERSALG",
+    "status": "requires approved feed"
+  },
+  {
+    "name": "Elkjøp",
+    "domain": "elkjop.no",
+    "feed_env": "FEED_ELKJOP",
+    "status": "requires approved feed"
+  },
+  {
+    "name": "Power",
+    "domain": "power.no",
+    "feed_env": "FEED_POWER",
+    "status": "requires approved feed"
+  },
+  {
+    "name": "Digital Impuls",
+    "domain": "digitalimpuls.no",
+    "feed_env": "FEED_DIGITAL_IMPULS",
+    "status": "requires approved feed"
+  },
+  {
+    "name": "Shark Gaming",
+    "domain": "sharkgaming.no",
+    "feed_env": "FEED_SHARK_GAMING",
+    "status": "requires approved feed"
+  },
+  {
+    "name": "Teknikproffset",
+    "domain": "teknikproffset.no",
+    "feed_env": "FEED_TEKNIKPROFFSET",
+    "status": "requires approved feed"
+  },
+  {
+    "name": "Foto.no",
+    "domain": "foto.no",
+    "feed_env": "FEED_FOTO_NO",
+    "status": "requires approved feed"
+  }
+]
